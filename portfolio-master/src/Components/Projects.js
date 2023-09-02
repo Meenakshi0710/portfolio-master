@@ -19,7 +19,7 @@ const Projects = () => {
       <div className="card-body">
       <h5 className="card-title"><FaShoppingBag/> Ecommerce Website</h5>
         <p className="card-text">This is a Shopping website with <strong>MERN</strong> stack with Admin, Dashboard, Login , Cart, Payment-gateway facilities.</p>
-        <a href="https://shree-shyam-spices.onrender.com/" className="btn btnClr text-white">Visit</a>
+        <a href="https://shree-shyam-spices.onrender.com" className="btn btnClr text-white">Visit</a>
       </div>
     </div>
   </div>
