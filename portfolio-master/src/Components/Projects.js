@@ -13,6 +13,31 @@ const Projects = () => {
 </div>
 <div className='container'>
 <div className="row row-cols-1 row-cols-md-3 g-4">
+   <div className="col">
+    <div className="card h-100">
+    <img src="Images/rangmohey.png" className="card-img-top" alt="..."/>
+      <div className="card-body">
+      <h5 className="card-title"> <FaShoppingBag/> Brand Website</h5>
+        <p className="card-text">
+A vibrant festive fashion website built with React, showcasing elegant ethnic wear through a modern, responsive design.  
+It features smooth navigation, dynamic product displays, and a joyful user experience that brings tradition and style together.
+```
+</p>
+        <a href="https://rangmohey.netlify.app/" className="btn btnClr text-white">Visit</a>
+      </div>
+    </div>
+  </div>
+   <div className="col">
+    <div className="card h-100">
+    <img src="Images/mayuri.png" className="card-img-top" alt="..."/>
+      <div className="card-body">
+      <h5 className="card-title"> <FaShoppingBag/> Brand Website</h5>
+        <p className="card-text">A sleek fashion website built with Next.js and Tailwind CSS, featuring a minimalist design and fast performance.
+It highlights trending styles with responsive layouts, smooth transitions, and an elegant shopping experience across all devices.</p>
+        <a href="https://mayuri-psi.vercel.app/" className="btn btnClr text-white">Visit</a>
+      </div>
+    </div>
+  </div>
   <div className="col">
     <div className="card h-100">
     <img src="Images/shyamspices.png" className="card-img-top" alt="..."/>
